@@ -21,6 +21,17 @@
 
 ## Запуск проекта
 
-- git clone https://github.com/Mountainman199231/Team_Two_Match
-- cd event_service
-- make run
+```javascript
+git clone https://github.com/Mountainman199231/Team_Two_Match
+```
+
+```javascript
+cd event_service
+```
+
+```javascript
+make run
+```
+
+
+
